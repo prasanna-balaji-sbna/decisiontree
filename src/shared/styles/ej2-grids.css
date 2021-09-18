@@ -1,0 +1,17 @@
+.e-grid .e-gridheader {
+  /* border:2px solid green; */
+background-color: #2a87e0
+}
+.e-grid .e-headercell {
+  /* color: darkblue; */
+background-color: #2a87e0;
+font-size: 14px !important;
+font-weight: 500;
+color: black;
+
+}
+.e-grid .e-headercelldiv
+{
+font-size: 14px !important;
+color: white;
+}

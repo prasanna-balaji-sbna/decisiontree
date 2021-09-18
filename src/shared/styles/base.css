@@ -1,0 +1,340 @@
+:root {
+  --light: 300;
+  --regular: 400;
+  --medium: 500;
+  --bold: 600;
+  --extra-bold: 700;
+  font-family: 'Poppins', serif;
+}
+.MuiOutlinedInput-input
+{
+  padding: 15.5px 12px !important;
+}
+.makeStyles-logo-306
+{
+  height: 60px !important;
+  margin-right: 40px;
+}
+.MuiSelect-selectMenu
+{
+  text-align: left !important;
+}
+.MuiCard-root
+{
+  overflow: visible !important;
+}
+.MuiIconButton-root
+{
+  padding: 2px !important;
+  color: white;
+}
+.MuiIconButton-label
+{
+  padding: 4px !important;
+  /* color: white; */
+
+}
+
+.Card
+{
+  padding: 10px
+}
+body {
+  line-height: 1.35 !important;
+  font-family: 'Poppins', serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  font-size: 14px;
+}
+.actionIcons 
+{
+  padding:0px !important;
+  color:black !important;
+}
+.uploadIcons
+{
+color: black;
+margin-bottom: -6px;
+;}
+
+.MuiButton-containedPrimary
+{
+  text-transform: none !important;
+  color: white;
+padding:5px !important;
+font-size: small !important;
+
+}
+.MuiSvgIcon-root
+{
+  font-size: 1.25rem !important;
+}
+.alignCenter
+{
+    text-align:center;
+}
+.alignWidth
+{
+    width: 260px;
+    height: 37px;
+    margin-top: 21px;
+}
+.special-label
+{
+    display:none;
+}
+.MuiFormControl-marginNormal
+{
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+.MuiFormControl-root
+{
+  margin:5px !important;
+}
+.griditem
+{
+  padding-right: 4px !important;
+  margin-right:5px;
+}
+.iconitem
+{
+ text-align: center;
+ padding-top: 8px;
+}
+.form-control
+{
+    width: 200px;
+    height: 37px;
+    
+}
+.form-control1
+{
+    width: 100%;
+    height: 100%;
+   
+}
+.selected-flag
+{
+    display:none;
+}
+.aligndriveremail
+{
+    width: 260px;
+    height: 37px;
+    margin-top: 1px;
+    margin-bottom:21px;
+}
+.alignBottom
+{
+    width: 260px;
+    height: 37px;
+    margin-top: 21px;
+    margin-bottom:21px;
+}
+.alignButton 
+{
+    margin-top:21px;
+}
+.labelSpaceAlign
+{
+    margin-bottom:8px;
+}
+.alignRefresh
+{
+    padding-bottom: 17px;
+    padding-left: 76px
+}
+.alignSelect
+{
+    width: 150px;
+    height: 35px;
+}
+.text-class{
+  width: 100%;
+  height: 60px;
+}
+.addButtonAlign
+{
+    padding-left: 150px;
+}
+.alignCreateDriver
+{
+  padding-bottom: 17px;
+}
+.alignDriverLabel
+{
+  margin-top: 28px;
+}
+.alignCheckBox
+{
+  margin-top: 18px;
+}
+.textTransform
+{
+     text-transform: capitalize;
+}
+.dialog-margin{
+  height: 30px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  width: 100%;
+ } 
+ .number-margin{
+  
+  width: 98%;
+ }
+ .modal-label
+{
+  font-size: 14px;
+    margin-bottom: .2rem;
+    font-weight: 500;
+    color: #3c3b6e !important;
+}
+.view-modal-label
+{
+ 
+  font-size: 12px;
+    margin-bottom: .2rem;
+    font-weight: 500;
+    color: #3c3b6e !important;
+}
+.header-modal-label
+{
+  font-size: 14px;
+    margin-bottom: .2rem;
+    font-weight: 500;
+    color: #DD4124 !important;
+}
+.alignTextField
+{
+  margin-top:8px;
+}
+.alignTextFieldWidth
+{
+  width:280px; 
+}
+.TextareaWidth {
+
+
+  height: 100px !important;
+  width: 284px !important;
+  font: inherit;
+  padding: 4px 13px 7px;
+  
+  
+  }
+.alignPaymentSelect
+{
+  width:280px;
+  height:50px;
+}
+.alignDriverName
+{
+  padding-left:51px;
+}
+.step3Label
+{
+  margin-bottom:8px;
+}
+.alignDriverWidth
+{
+  width:280px;
+  height:50px;
+}
+.Keyboard
+{
+max-width:135px;
+}
+.textField1
+{
+  width: 200;
+  font-family: 'Open Sans,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif';
+  font-style: 'normal';
+  font-Weight: 400;
+  font-Size: 16;
+  color: '#504572',
+}
+.marginSelect
+{
+  margin-bottom:-20px;
+}
+.left   {
+  float:left;
+}
+.right
+{
+  float:right;
+}
+.mandatory
+{
+  color:red;
+}
+
+sup{
+  color: red;
+}
+.loader{
+  width:105%;
+  margin:-30px;
+  position:fixed;
+  top:0;
+  left: 0;
+  background: #666;
+  opacity: 0.6;
+}
+.Loader{
+  width:100%;
+  /* margin: 305px; */
+  /* margin-top: 60px; */
+  position:fixed;
+  top:0;
+  left: 0;
+  background: #666;
+  opacity: 0.6;
+}
+.dialog-file{
+  width: 100%;
+  height: 90%;
+  position: fixed;
+}
+.e-grid .e-icons.e-columnmenu::before {
+  content:"\e7ee";
+}
